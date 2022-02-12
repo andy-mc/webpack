@@ -1,4 +1,4 @@
-import {sum} from './utils/sum';
+import {sum} from './utils/sum.js';
 
 const hello_world = 'hello world !!';
 console.log('hello_world:', hello_world);
